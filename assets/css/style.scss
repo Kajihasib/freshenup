@@ -70,6 +70,7 @@ body{
         font-family: $normalFontFamily;
         &:hover{
             color: $themeColor;
+            text-decoration: none;
         }
     }
     button,
